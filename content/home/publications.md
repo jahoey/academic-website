@@ -1,4 +1,5 @@
 +++
+title = "Publications"
 
 Hoey, J.A., F.J. Fodrie, Q.A. Walker, E.J. Hilton, G.T. Kellison, T.E. Targett, J.C. Taylor, K.W. Able, and M.L. Pinsky. 2020. Using multiple natural tags provides evidence for extensive larval dispersal across space and through time in summer flounder. Molecular Ecology 29:1421–1435. [https://doi.org/10.1111/mec.15414](https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15414)
 
