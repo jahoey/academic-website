@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am an ecologist and evolutionary biologist currently working with Eric Palkovacs and Carlos Garza as a postdoctoral scholar at UC Santa Cruz. My research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I use population genomics, natural history collections, computation and fisheries datasets to understand the past, present and future of aquatic populations. I am also passionate about science communication, and I serve on the Governing Council of the National Network for Ocean & Climate Change Interpretation [(NNOCCI)(https://climateinterpreter.org/).
+I am an ecologist and evolutionary biologist currently working with Eric Palkovacs and Carlos Garza as a postdoctoral scholar at UC Santa Cruz. My research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I use population genomics, natural history collections, computation and fisheries datasets to understand the past, present and future of aquatic populations. I am also passionate about science communication, and I serve on the Governing Council of the National Network for Ocean & Climate Change Interpretation [(NNOCCI)](https://climateinterpreter.org/).
 
 As a postdoctoral scholar, I am examining the genomic basis of fisheries-induced evolution in Alaskan salmon. 
 
