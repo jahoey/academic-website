@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Hettinger, A., E. Sanford, T.M. Hill, A.D. Russell, K.N.S. Sato, J. Hoey, M. Forsch, H.N. Page, and B. Gaylord. 2012. Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster. Ecology 93(12): 2758-2768."
+subtitle = "Hettinger, A., E. Sanford, T.M. Hill, A.D. Russell, K.N.S. Sato, J. Hoey, M. Forsch, H.N. Page, and B. Gaylord. 2012. Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster. Ecology 93(12): 2758-2768. [ https://doi.org/10.1890/12-0567.1](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/12-0567.1)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,7 +37,7 @@ subtitle = "Hettinger, A., E. Sanford, T.M. Hill, A.D. Russell, K.N.S. Sato, J. 
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
