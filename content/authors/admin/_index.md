@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:jahoey13@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jahoey13
@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am an ecologist and evolutionary biologist currently working with Eric Palkovacs and Carlos Garza as a postdoctoral scholar at UC Santa Cruz. My research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I use population genomics, natural history collections, computation and fisheries datasets to understand the past, present and future of aquatic populations. I am also passionate about science communication, and I serve on the Governing Council of the National Network for Ocean & Climate Change Interpretation ((NNOCCI))[https://climateinterpreter.org/].
+I am an ecologist and evolutionary biologist currently working with Eric Palkovacs and Carlos Garza as a postdoctoral scholar at UC Santa Cruz. My research focuses on how microevolutionary forces shape patterns of genetic diversity across space and through time, and how the processes inferred from past and current genomic patterns might influence evolutionary potential in a changing world. I use population genomics, natural history collections, computation and fisheries datasets to understand the past, present and future of aquatic populations. I am also passionate about science communication, and I serve on the Governing Council of the National Network for Ocean & Climate Change Interpretation [(NNOCCI)(https://climateinterpreter.org/).
 
 As a postdoctoral scholar, I am examining the genomic basis of fisheries-induced evolution in Alaskan salmon. 
 
-I earned my PhD under the guidance of (Malin Pinsky)[https://pinsky.marine.rutgers.edu/] as part of the (Graduate Program of Ecology & Evolution)[https://ecoevo.rutgers.edu/] at Rutgers University. Prior to pursuing a PhD, I worked and volunteered for several San Francisco Bay Area non-profits to engage youth and community members in science education and stewardship. I also assisted with understanding eco-evo feedback interactions in Trinidadian guppies and the monitoring and restoration of coho salmon populations in northern California. I received my Bachelor's degree from the Department of Integrative Biology at UC Berkeley.
+I earned my PhD under the guidance of [Malin Pinsky](https://pinsky.marine.rutgers.edu/) as part of the [Graduate Program of Ecology & Evolution](https://ecoevo.rutgers.edu/) at Rutgers University. Prior to pursuing a PhD, I worked and volunteered for several San Francisco Bay Area non-profits to engage youth and community members in science education and stewardship. I also assisted with understanding eco-evo feedback interactions in Trinidadian guppies and the monitoring and restoration of coho salmon populations in northern California. I received my Bachelor's degree from the Department of Integrative Biology at UC Berkeley.
