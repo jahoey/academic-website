@@ -8,7 +8,7 @@ active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "Hettinger, A., E. Sanford, T.M. Hill, A.D. Russell, K.N.S. Sato, J. Hoey, M. Forsch, H.N. Page, and B. Gaylord. 2012. Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster. Ecology 93(12): 2758-2768."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
